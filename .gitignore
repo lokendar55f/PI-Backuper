@@ -1,0 +1,22 @@
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ---- Virtual environments ----
+.venv/
+venv/
+ENV/
+
+# ---- PyInstaller ----
+build/
+dist/
+*.spec
+*.txt
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
