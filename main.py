@@ -182,7 +182,7 @@ class App(ttk.Frame):
 
         btns = ttk.Frame(prog)
         btns.pack(fill="x", padx=6, pady=(0, 6))
-        self.cancel_btn = ttk.Button(btns, text="Cancel", command=self._cancel, state="disabled")
+        self.cancel_btn = tk.Button(btns, text="Cancel", command=self._cancel, state="disabled")
         self.cancel_btn.pack(side="right")
 
     def _about(self):
