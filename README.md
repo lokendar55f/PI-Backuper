@@ -1,6 +1,6 @@
 # PI-Backuper
 
-Raspberry Pi SD card backup & restore tool for **Windows**.
+Removable media backup & restore tool for **Windows**.
 
 ---
 
