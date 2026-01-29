@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/github/stars/cfunkz/PI-Backuper?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/cfunkz/PI-Backuper?style=flat-square" alt="Open Issues">
+  <img src="https://img.shields.io/github/issues-closed/cfunkz/PI-Backuper?style=flat-square" alt="Closed Issues">
+  <img src="https://img.shields.io/github/release/cfunkz/PI-Backuper?style=flat-square" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/cfunkz/PI-Backuper/total?style=flat-square" alt="Downloads">
+  <img src="https://img.shields.io/github/license/cfunkz/PI-Backuper?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=flat-square" alt="Platform">
+</p>
+
 # PI-Backuper
 
 Removable media backup & restore tool for **Windows**.
