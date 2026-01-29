@@ -1,0 +1,29 @@
+[project]
+name = "pi-backuper"
+version = "1.0.0"
+description = "Win11 raw USB/SD backup/restore/clone."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "cFunkz" }]
+keywords = ["raspberry-pi", "backup", "restore", "imaging", "windows", "sd-card", "usb"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: Microsoft :: Windows",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: System :: Archiving :: Backup",
+]
+
+dependencies = [
+  "pywin32>=306",
+  "WMI>=1.5.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/cfunkz/PI-Backuper"
+Repository = "https://github.com/cfunkz/PI-Backuper"
+Issues = "https://github.com/cfunkz/PI-Backuper/issues"
+
+[tool.pyinstaller]
+# purely informational; your real build command stays in README
