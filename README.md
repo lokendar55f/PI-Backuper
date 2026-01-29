@@ -29,7 +29,7 @@ Removable media backup & restore tool for **Windows**.
 
 ## Screenshots
 
-<img width="819" height="476" alt="image" src="https://github.com/user-attachments/assets/4c8f506e-fc36-493a-8011-555b7442eb55" />
+<img width="850" height="528" alt="image" src="https://github.com/user-attachments/assets/7f8e7f03-c2aa-4733-8d75-8ac1b64c2840" />
 
 ---
 
