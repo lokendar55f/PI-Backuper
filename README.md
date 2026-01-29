@@ -53,8 +53,7 @@ It reads the entire removable device **sector-by-sector**, not files.
 
 This means it can back up **any removable USB media**, including:
 
-- Raspberry Pi SD cards (Raspberry Pi OS, Ubuntu, LibreELEC, custom images)
-- Other SBC / embedded Linux SD cards
+- SD cards (Raspberry Pi OS, Ubuntu, LibreELEC, custom images)
 - USB flash drives (FAT32, exFAT, NTFS, unknown filesystems)
 - External USB HDDs / SSDs (full disk, all partitions)
 - Bootable installers and recovery media
