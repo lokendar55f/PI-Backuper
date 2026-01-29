@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/github/downloads/cfunkz/PI-Backuper/total?style=flat-square" alt="Downloads">
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/cfunkz81112">
+    <strong>Buy me a coffee</strong>
+  </a>
+</p>
+
 # PI-Backuper
 
 Removable media backup & restore tool for **Windows**.
